@@ -1,5 +1,5 @@
 # Popcat Auto Clicker
-Script for auto click on popcat's website by KaptenTekno
+Script for auto click on popcat's website by [KaptenTekno](https://kaptentekno.com/). Popcat has set a maximum limit of 800 clicks per 30 seconds (approximately 26 clicks per second) for each IP address. Exceeding this limit will result in your clicks not being counted, and you might face a 24-hour ban.
 
 ## How to Use the Popcat Hack Auto Click Script
 
